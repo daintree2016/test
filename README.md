@@ -1,2 +1,2 @@
 # test
-testing the push method
+testing the push method from gitbash
