@@ -270,7 +270,7 @@ def func():
             print(s)
         else:
             pass
-#//*[@id="nav-search-submit-text"]/input
+#/*[@id="nav-search-submit-text"]/input
     else:
         pass
     time.sleep(2)
