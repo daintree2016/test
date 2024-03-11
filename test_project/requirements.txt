@@ -1,1 +1,5 @@
-
+Flask==2.0.1
+mysql==0.0.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.27
+pandas==1.2.3
